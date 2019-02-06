@@ -1,6 +1,10 @@
 Python 的学习笔记
 ====
 ## 环境相关
+[Python 安装](https://pythonguidecn.readthedocs.io/zh/latest/starting/install3/osx.html)
+
+[iTerm2 + oh my zsh](https://www.jianshu.com/p/9c3439cc3bdb)
+
 Sublime + MarkdownEditing + Markdown preview + LiveReload
 
 [Python最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
@@ -34,3 +38,6 @@ print("abc\n"*8)
 ## Django
 
 ## 项目相关
+
+## 学习资料
+1. [笨办法学 Python](https://learnpythonthehardway.org/python3/preface.html)
