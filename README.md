@@ -41,3 +41,15 @@ print("abc\n"*8)
 
 ## 学习资料
 1. [笨办法学 Python](https://learnpythonthehardway.org/python3/preface.html)
+
+## 快捷键
+Python Console
++ ^+p: 上一个命令
++ ^+n: 下一个命令
+PyCharm
++ 
+
+## Cheat Sheet
+[Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
+[Python 3 – Quick Reference Card](https://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html)
+[Python3 in one pic](https://github.com/coodict/python3-in-one-pic/blob/master/README.md)
