@@ -41,6 +41,7 @@ print("abc\n"*8)
 
 ## 学习资料
 1. [笨办法学 Python](https://learnpythonthehardway.org/python3/preface.html)
+2. [Python 基础教程](http://www.runoob.com/python/python-tutorial.html)
 
 ## 快捷键
 Python Console
@@ -53,3 +54,4 @@ PyCharm
 [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 [Python 3 – Quick Reference Card](https://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html)
 [Python3 in one pic](https://github.com/coodict/python3-in-one-pic/blob/master/README.md)
+[Python 运算符](http://www.runoob.com/python/python-operators.html)
