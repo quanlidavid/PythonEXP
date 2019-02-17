@@ -5,7 +5,7 @@ Python 的学习笔记
 
 [iTerm2 + oh my zsh](https://www.jianshu.com/p/9c3439cc3bdb)
 
-Sublime + MarkdownEditing + Markdown preview + LiveReload
+Sublime + MarkdownEditing + Markdown preview + LiveReload + Sublimerge + Pretty Json
 
 [Python最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
 
