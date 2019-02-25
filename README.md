@@ -48,7 +48,8 @@ Python Console
 + ^+p: 上一个命令
 + ^+n: 下一个命令
 PyCharm
-+ 
++ ⌘>:  光标挪到行尾
++ ⌥ ⌘ V: 新建变量
 
 ## Cheat Sheet
 [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
