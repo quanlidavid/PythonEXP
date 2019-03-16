@@ -187,7 +187,7 @@ class EscapePod(Scene):
         guess = input("[pod #]> ")
         if int(guess) != good_pod:
             print(dedent("""
-                ou jump into pod {guess} and hit the eject button.
+                You jump into pod {guess} and hit the eject button.
                 The pod escapes out into the void of space, then
                 implodes as the hull ruptures, crushing your body into
                 jam jelly.

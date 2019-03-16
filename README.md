@@ -13,7 +13,9 @@ Sublime + MarkdownEditing + Markdown preview + LiveReload + Sublimerge + Pretty 
 
 pycharm新建项目的时候可以选择新建virtualenv:
 然后导出依赖包文件
-```pip freeze > requirements.txt  ```
+```
+pip freeze > requirements.txt  
+```
 “freeze” the current state of the environment packages
 
 [git里加入需要忽略的文件](https://github.com/github/gitignore/blob/master/Python.gitignore)
@@ -21,7 +23,9 @@ pycharm新建项目的时候可以选择新建virtualenv:
 
 拉取代码后可以:
 新建项目的project interpreter，然后装依赖的包
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 install the same packages using the same versions
 
 ## 语法相关
